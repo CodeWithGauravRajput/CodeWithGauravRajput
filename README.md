@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate Data Science Student</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello There! I'm Gaurav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ECF77D&width=435&lines=Data+Scientist;AI+Engineer;ML+Engineer;Data+Analyst](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=ECF77D&center=true&vCenter=true&width=435&lines=Data+Scientist;AI+Engineer;ML+Engineer;Data+Analyst"></a>
+</p>
+
+
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithgauravrajput&label=Profile%20views&color=0e75b6&style=flat" alt="codewithgauravrajput" /> </p>
 
 - 🔭 I’m currently working on [FitSense](https://github.com/CodeWithGauravRajput/FitSense--Your_Smart_Fitness_Partner)
