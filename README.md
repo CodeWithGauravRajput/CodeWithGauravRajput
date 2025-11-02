@@ -19,7 +19,7 @@
 
 - 📫 **Reach Me At:** [kunwergauravbanna@gmail.com](mailto:kunwergauravbanna@gmail.com)
   
-- 📄 Know about my experiences [My Resume]()
+- 📄 Know about my experiences [My Resume](https://salmon-alta-27.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
