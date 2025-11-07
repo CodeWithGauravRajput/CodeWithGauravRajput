@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithgauravrajput&label=Profile%20views&color=0e75b6&style=flat" alt="codewithgauravrajput" /> </p>
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on EDA
 
 - 🌱 I’m currently learning **Machine Learning**
 
