@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithgauravrajput&label=Profile%20views&color=0e75b6&style=flat" alt="codewithgauravrajput" /> </p>
 
-- 🔭 I’m currently working on [CRM Sales Dashbord(power BI)](https://github.com/CodeWithGauravRajput/CRM-SQL-case-study)
+- 🔭 I’m currently working on Nothing
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 **Reach Me At:** [kunwergauravbanna@gmail.com](mailto:kunwergauravbanna@gmail.com)
   
